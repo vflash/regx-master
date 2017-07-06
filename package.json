@@ -1,0 +1,30 @@
+{
+    "version": "1.0.0",
+    "name": "regx-master",
+    "description": "regular expressions master",
+    "keywords": [
+        "regular expressions",
+        "regex",
+        "js"
+    ],
+    "main": "./regx-master.js",
+    "homepage": "github.com/vflash/regx-master",
+    "bugs": {
+        "url": "https://github.com/vflash/regx-master/issues"
+    },
+    "author": {
+        "name": "Vopilovskiy Konstantin",
+        "email": "flash.vkv@gmail.com",
+        "url": "http://vflash.ru"
+    },
+
+    "files": [
+        "LICENSE",
+        "README.md",
+        "regx-master.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/vflash/regx-master.git"
+    }
+}
